@@ -15,7 +15,7 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 |Matrícula | Aluno |
 | -- | -- |
 |202307164178  |  Leonardo Baptista Machado |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 202307164208  |  Tadeu Tovar |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
