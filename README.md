@@ -4,8 +4,6 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 
 **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: 2024.1_PFE1_ProjetoPandora!!**
  
- (Apague essa seção)
-
 # NomedoProjeto
 
 **Número do Grupo**: 2<br>
