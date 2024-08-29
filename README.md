@@ -1,10 +1,4 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto). !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: 2024.1_PFE1_ProjetoPandora!!**
- 
-# NomedoProjeto
+ # Projeto Vascode
 
 **Número do Grupo**: 2<br>
 **Código da Disciplina**: 8001 <br>
@@ -12,20 +6,22 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-|202307164178  |  Leonardo Baptista Machado |
-| 202307164208  |  Tadeu Tovar |
+|202307164178  |Leonardo Baptista Machado |
+|202307164208  |Tadeu Tovar |
+|202307636495  |Bernardo Duarte | 
 
 ## Sobre 
- 
+Estamos desenvolvendo uma plataforma de streaming dedicada a oferecer treinos online com foco em treinos funcionais. Nossa missão é proporcionar uma experiência de treino acessível, variada e especializada para pessoas de todos os níveis de condicionamento físico. Utilizaremos Django para o backend e uma combinação de JavaScript, HTML, e CSS para o frontend, além de outras ferramentas conforme necessário.
+
+
+## Instalação 
+**Linguagens**: Python, HTML, CSS<br>
+**Tecnologias**: Django, SQLlite<br>
+
+# Para fazer
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
-
-## Instalação 
-**Linguagens**: xxxxxx<br>
-**Tecnologias**: xxxxxx<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-Insira um manual ou um script para auxiliar ainda mais.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
