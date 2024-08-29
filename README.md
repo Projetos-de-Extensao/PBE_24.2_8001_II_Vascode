@@ -7,7 +7,7 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 # NomedoProjeto
 
 **Número do Grupo**: 2<br>
-**Código da Disciplina**: FGA0208-T01<br>
+**Código da Disciplina**: 8001 <br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -16,7 +16,7 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 | 202307164208  |  Tadeu Tovar |
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
+ 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
