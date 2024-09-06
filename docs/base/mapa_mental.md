@@ -20,8 +20,7 @@ Foi levantado um ponto importante sobre o app e, assim, foi produzido o mapa men
 ## Versão 1.0
  
 ### Mapa mental 1
- 
-https://github.com/Projetos-de-Extensao/PBE_24.2_8001_II_Vascode/tree/main/docs/assets/mapa%20mental
+![Mapa Mental](./assets/mapa%20mental/Mapa%20mental-4.jpg)
 
  
 ### Mapa mental 2
