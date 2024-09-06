@@ -23,90 +23,67 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
  
 <p align = "justify">
 
-## o que será? 
+# Brainstorm - Plataforma de Streaming de Treinamentos Funcionais para Diversos Esportes
+
+## 1. Qual o objetivo principal da aplicação?
+
+- **O que é?**  
+  É uma plataforma de streaming online que oferece conteúdos de treinamento funcional voltados para diferentes esportes.
+
+- **Objetivo da plataforma**  
+  O objetivo da aplicação é oferecer uma experiência acessível e especializada de treinos funcionais, por meio de vídeos e áudios, para pessoas interessadas em melhorar seu condicionamento físico ou desempenho em esportes específicos.
+
+## 2. Como será o processo para cadastrar um novo cliente?
+
+- **Step 1**  
+  O usuário será redirecionado para a página de registro.
+
+- **Step 2**  
+  O usuário terá a opção de realizar o registro social (Gmail, Facebook, etc.) ou cadastrar seus dados manualmente.
+
+- **Step 3**  
+O usuário poderá acessar a plataforma e desfrutar de vídeos e áudios sobre os assuntos de seu interesse, além de ter a opção de favoritar conteúdos e criar suas próprias playlists.
+
+## 3. Como será a forma de adicionar conteúdos?
+
+### Vídeos e Áudios
+- **1**  
+  O usuário deve logar com uma conta de admnistrador.
+
+- **2**  
+  O administrador deve acessar a página dedicada à postagem de conteúdos, informando detalhes como tipo de arquivo, thumbnail, título, descrição, categoria (treino funcional, esporte específico), série ou vídeo único, entre outras informações.
+
+
+## 4. Como seria a forma de o cliente interagir com os produtos?
+
+### Visualização de Vídeos/Áudios
+- O usuário final não terá a opção de adicionar conteúdos de vídeo ou áudio, apenas poderá visualizar os treinos disponibilizados pelos administradores.
+
+
+## 5. Quais informações seriam interessantes para o cliente?
+
+### Criação de Playlists e Favoritos
+- O usuário terá à disposição a funcionalidade de criar playlists personalizadas com seus treinos favoritos, organizando os conteúdos conforme seus interesses e metas. Além disso, ele poderá favoritar vídeos e áudios para facilitar o acesso futuro.
+
+- **Roadmap de Treinamento**  
+  A plataforma oferecerá a opção de criar um "caminho" de treinos a serem seguidos, organizando as aulas por categorias e níveis de dificuldade, de acordo com os objetivos pessoais do usuário (ex: emagrecimento, força, condicionamento físico).
 
 
 
-
----
- 
-### 2. Como será o processo para cadastrar um novo clientetorneio?
- 
-<p align = "justify">
-<b>XXXX</b> - O moderador deverá fazer login e...
- 
-<b>YYYY</b> - O cliente...
- 
-<b>WWWW</b> - Com o usuário logado, ele deverá...
-
-<b>ZZZZ</b> - O cliente...
- 
-<b>KKK</b> - O cliente...
- 
----
- 
-### 3. Como será a forma de adicionar produtos?
- 
-<p align = "justify">
-<b>XXXX</b> - O cliente ao cadastrar...
-</p>
- 
-<p align = "justify">
-<b>YYYYY</b> - O produto tem...
-</p>
- 
-<b>ZZZZ</b> - O produto....
- 
-<b>XXXX</b> - O produto....
-
- 
----
- 
-### 4. Outras perguntas pertinentes ao contexto
-
-<p align = "justify">
-<b>XXXX</b> - Com a localização...
- 
-<b>YYYY</b> - O cliente...
- 
-<b>ZZZ</b> - O cliente...
- 
----
- 
-### 5. "Outras perguntas pertinentes ao contexto", Como seria a forma de adicionar do cliente adicionar os produtos ?
-<p align = "justify">
-<b>XXX</b> - O cliente....
-</p>
- 
-### 6. Quais informações seriam interessante para o cliente?
-<p align = "justify">
-   <b>XXX</b> - Informações...
-   
-   <b>ZZZZ</b> - O cliente usuário poderá acessar informações...
-
-   <b>WWWWs</b> - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios, locais e data das partidas.
-   
-</p>
- 
 ### Requisitos elicitados
  
 |ID|Descrição|
 |----|-------------|
-|BS01| O cliente...|
-|BS02| O cliente...|
-|BS03| O cliente...|
-|BS04| O cliente...|
-|BS05| O cliente...|
-|BS06| O cliente...|
-|BS07| O cliente...|
-|BS08| O cliente...|
-|BS09| O cliente...|
-|BS10| O produto...|
-|BS11| O produto...|
-|BS12| O produto...|
-|BS13| O produto...|
-|BS14| O produto...|
-|BS15| O produto...|
+| BS01 | O usuário poderá se cadastrar manualmente ou utilizando opções de registro social.              |
+| BS02 | Todo processo de cadastro enviará um e-mail de confirmação ao usuário, para verificar sua conta e gravar os dados no banco de dados. |
+| BS03 | O usuário poderá acessar a plataforma usando login manual ou por meio de login social.          |
+| BS04 | A plataforma deve ser acessível em qualquer dispositivo, garantindo uma experiência responsiva. |
+| BS05 | O usuário terá a capacidade de interagir com os vídeos e áudios, podendo comentar, avaliar ou adicionar às suas playlists e favoritos. |
+| BS06 | O usuário poderá criar e organizar suas próprias playlists com os conteúdos de sua preferência. |
+| BS07 | A plataforma permitirá que o usuário filtre conteúdos por tipo de treino, modalidade esportiva, data de publicação, avaliações ou por meio de uma busca específica (exemplo: treino funcional para futebol). |
+| BS08 | O usuário poderá ativar notificações para ser informado sobre novos conteúdos disponíveis na plataforma. |
+| BS09 | O usuário poderá personalizar seu perfil, ajustando informações como descrição, imagem de perfil e preferências. |
+| BS10 | O administrador terá a função de adicionar novos vídeos e áudios à plataforma, incluindo detalhes como categoria, título, descrição, e outras informações relevantes. |
  
 ## Conclusão
 <p align = "justify">
