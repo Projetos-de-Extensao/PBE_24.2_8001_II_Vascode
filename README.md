@@ -1,7 +1,7 @@
- # Projeto Vascode
+ # Vascode
 
-**Número do Grupo**: 2<br>
-**Código da Disciplina**: 8001 <br>
+**Número do Grupo**: II<br>
+
 
 ## Alunos
 |Matrícula | Aluno |
