@@ -21,7 +21,7 @@ Foi levantado um ponto importante sobre o app e, assim, foi produzido o mapa men
  
 ### Mapa mental 1
  
-![Mapa Mental](./assets/MapaMental-1.jpg)
+https://github.com/Projetos-de-Extensao/PBE_24.2_8001_II_Vascode/tree/main/docs/assets/mapa%20mental
 
  
 ### Mapa mental 2
