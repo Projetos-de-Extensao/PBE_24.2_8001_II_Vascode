@@ -45,3 +45,5 @@
 - **Ator Principal**: Usuário
 - **Objetivo**: O usuário quer salvar treinos favoritos para facilitar o acesso futuro.
 - **Descrição**: Durante ou após a execução de um treino, o usuário pode marcar o treino como favorito e adicionar à sua playlist. A playlist pode ser acessada na aba "Favoritos",
+- **Pré-condição**: O usuário deve estar logado.
+- **Pós-condição**: O treino é salvo na playlist de favoritos.
