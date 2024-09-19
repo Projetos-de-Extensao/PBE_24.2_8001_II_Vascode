@@ -10,7 +10,16 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
  
 ## Metodologia
 <p align = "justify">
-A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .... e terminou..., onde o XXXX XXXX foi o moderador, direcionando a equipe com questões pré-elaboradas, e transcrevendo as respostas para o documento.
+Para o desenvolvimento das ideias relacionadas à plataforma de streaming de treinos de academia, utilizamos a metodologia de brainstorming estruturado. A abordagem foi organizada em etapas claras para garantir que todas as ideias relevantes fossem exploradas e documentadas:
+
+Definição do Problema: O primeiro passo foi alinhar todos os participantes com o objetivo do projeto, detalhando o problema central a ser resolvido: a falta de uma plataforma integrada e personalizada para treinos de academia, com treinos guiados e acompanhamento de progresso.
+
+Geração de Ideias: Durante essa fase, cada participante foi incentivado a sugerir ideias de funcionalidades, design, e aspectos da experiência do usuário sem julgamentos ou críticas. Todas as ideias foram anotadas, independentemente de sua viabilidade imediata.
+Agrupamento e Organização: Em seguida, as ideias geradas foram agrupadas por categorias, como "Personalização", "Funcionalidades do Usuário", "Integração com Profissionais", e "Acompanhamento de Progresso". Isso permitiu uma melhor organização para analisar os temas emergentes.
+
+Avaliação e Priorização: Após a organização, a equipe revisou todas as ideias e as classificou de acordo com sua relevância e impacto no projeto. As ideias mais alinhadas com os objetivos principais da plataforma foram priorizadas para implementação.
+
+Documentação: Por fim, todas as ideias selecionadas foram documentadas, detalhando seus requisitos e como poderiam ser integradas ao projeto, servindo de base para a elaboração de casos de uso e requisitos de sistema.
 </p>
  
 ## Brainstorm
