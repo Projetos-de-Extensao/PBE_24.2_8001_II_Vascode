@@ -36,7 +36,7 @@ Para esta entrevista optamos por seguir um modelo de entrevista aberta, onde ter
 |Nome | Papel |
 -----|------|
 |Leonardo Machado| Entrevistador|
-|| Entrevistado|
+|Client Representative| Entrevistado|
 
 <br>
 <br>
