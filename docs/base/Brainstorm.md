@@ -28,7 +28,7 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ## 1. Qual o objetivo principal da aplicação?
 
 - **O que é?**  
-  É uma plataforma de streaming online que oferece conteúdos de treinamento funcional voltados para diferentes esportes.
+  É uma plataforma de streaming online que oferece conteúdos de treinamento funcional voltados para treino em academias.
 
 - **Objetivo da plataforma**  
   O objetivo da aplicação é oferecer uma experiência acessível e especializada de treinos funcionais, por meio de vídeos e áudios, para pessoas interessadas em melhorar seu condicionamento físico ou desempenho em esportes específicos.
