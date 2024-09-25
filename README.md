@@ -13,7 +13,7 @@
 
 
 ## Sobre 
-Estamos desenvolvendo uma plataforma de streaming dedicada a oferecer treinos online. Nossa missão é proporcionar uma experiência de treino acessível, variada e especializada para pessoas de todos os níveis de condicionamento físico. Utilizaremos Django para o backend e uma combinação de JavaScript, HTML, e CSS para o frontend, além de outras ferramentas conforme necessário.
+Estamos desenvolvendo uma plataforma de streaming dedicada a oferecer treinos online para academias. Nossa missão é proporcionar uma experiência de treino acessível, variada e especializada para pessoas de todos os níveis de condicionamento físico, auxiliando academias a oferecerem treinos funcionais e personalizados aos seus alunos. Utilizaremos Django para o backend e uma combinação de JavaScript, HTML, e CSS para o frontend, além de outras ferramentas conforme necessário.
 
 
 ## Instalação 
