@@ -89,7 +89,7 @@ O usuário poderá acessar a plataforma e desfrutar de vídeos e áudios sobre o
 | BS04 | A plataforma deve ser acessível em qualquer dispositivo, garantindo uma experiência responsiva. |
 | BS05 | O usuário terá a capacidade de interagir com os vídeos e áudios, podendo comentar, avaliar ou adicionar às suas playlists e favoritos. |
 | BS06 | O usuário poderá criar e organizar suas próprias playlists com os conteúdos de sua preferência. |
-| BS07 | A plataforma permitirá que o usuário filtre conteúdos por tipo de treino, modalidade esportiva, data de publicação, avaliações ou por meio de uma busca específica (exemplo: treino funcional para futebol). |
+| BS07 | A plataforma permitirá que o usuário filtre conteúdos por tipo de treino, nivel de treino. |
 | BS08 | O usuário poderá ativar notificações para ser informado sobre novos conteúdos disponíveis na plataforma. |
 | BS09 | O usuário poderá personalizar seu perfil, ajustando informações como descrição, imagem de perfil e preferências. |
 | BS10 | O administrador terá a função de adicionar novos vídeos e áudios à plataforma, incluindo detalhes como categoria, título, descrição, e outras informações relevantes. |
