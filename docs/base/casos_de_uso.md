@@ -40,7 +40,7 @@
 
 ---
 
-## Caso de Uso 5: Criação de Playlist de Treinos Favoritos
+## Caso de Uso 5: Criação de Playlist com os Treinos Favoritos
 
 - **Ator Principal**: Usuário
 - **Objetivo**: O usuário quer salvar treinos favoritos para facilitar o acesso futuro.
