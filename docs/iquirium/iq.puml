@@ -1,0 +1,56 @@
+@startuml
+
+class Cliente {
+    + nomeCompleto: String
+    + contatoEmail: String
+    + pontosFidelidade: int
+    + historicoConvites: List<Convite>
+
+    /Métodos
+    + obterConvites(): List<Convite>
+}
+
+class Convite {
+    + emissor: Cliente
+    + destinatarioEmail: String
+    + urlConvite: String
+    + dataEnvio: Date
+    + estadoAtual: String
+
+    /Métodos
+    + criarUrl(): String
+    + verificarUrl(): Boolean
+    + registrarAceite()
+    + adicionarPontos()
+    + checarValidade(): Boolean
+}
+
+class Usuário {
+    + identificadorUnico: int
+    + nome: String
+    + emailPrincipal: String
+    + listaFeedback: List<Feedback>
+
+    /Métodos
+    + adicionarFeedback(descricao: String, categoria: String)
+    + consultarFeedbacks(): List<Feedback>
+}
+
+class Feedback {
+    + descricao: String
+    + categoria: String
+    + dataEnvio: Date
+    + remetente: Usuário
+
+    /Métodos
+    + definirCategoria(): String
+    + processarFeedback(feedback: Feedback)
+    + visualizarTodos(): List<Feedback>
+}
+
+Cliente "1" -- "0..*" Convite : envia
+Usuario "1" -- "0..*" Feedback : submete
+Convite "0..*" --> "1" Cliente : pertence
+Feedback "0..*" --> "1" Usuario : criadoPor
+
+@endum
