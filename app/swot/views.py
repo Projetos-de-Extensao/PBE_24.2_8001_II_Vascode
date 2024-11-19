@@ -53,6 +53,7 @@ class SWOTAnalysisViewSet(viewsets.ModelViewSet):
             return Response({'error': 'Ainda não está permitido criar nova análise SWOT.'}, status=status.HTTP_400_BAD_REQUEST)
         return Response({'status': 'Você pode criar uma nova análise SWOT.'}, status=status.HTTP_200_OK)
 
+    
     # Histórico de análises anteriores
     @swagger_auto_schema(responses={200: SWOTAnalysisDetailSerializer(many=True)})
     @action(detail=False, methods=['get'], url_path='history')

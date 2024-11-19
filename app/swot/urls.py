@@ -6,5 +6,6 @@ router = DefaultRouter()
 router.register(r'swot', SWOTAnalysisViewSet, basename='swot')
 
 urlpatterns = [
+ 
     path('', include(router.urls)),
 ]
