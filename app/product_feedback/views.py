@@ -1,7 +1,6 @@
 from rest_framework import viewsets, status
 from rest_framework.response import Response
 from rest_framework.decorators import action
-from rest_framework.permissions import IsAuthenticated
 from .models import ProductFeedback
 from .serializers import (
     ProductFeedbackSerializer,
@@ -12,7 +11,6 @@ from .serializers import (
 
 class ProductFeedbackViewSet(viewsets.ModelViewSet):
     queryset = ProductFeedback.objects.all()
-    permission_classes = [IsAuthenticated]
 
     def get_serializer_class(self):
         """Define qual serializer usar dependendo da ação."""
@@ -26,14 +24,16 @@ class ProductFeedbackViewSet(viewsets.ModelViewSet):
 
     def perform_create(self, serializer):
         """Define o comportamento ao criar um novo feedback."""
-        serializer.save(user=self.request.user)
+        user_id = self.request.data.get('user_id')
+        serializer.save(user_id=user_id)
 
     @action(detail=False, methods=['post'], url_path='send-partial-feedback')
     def send_partial_feedback(self, request):
         """Método customizado para enviar feedback parcial."""
         serializer = ProductFeedbackCreateSerializer(data=request.data)
         if serializer.is_valid():
-            serializer.save(user=request.user)
+            user_id = request.data.get('user_id')
+            serializer.save(user_id=user_id)
             return Response({'message': 'Feedback enviado com sucesso.'}, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
