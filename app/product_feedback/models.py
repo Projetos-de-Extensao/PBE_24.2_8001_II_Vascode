@@ -1,5 +1,7 @@
 from django.db import models
+
 from app.user.models import User
+
 class ProductFeedback(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='product_feedbacks')
     feedback_text = models.TextField()
